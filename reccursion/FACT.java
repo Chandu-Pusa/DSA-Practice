@@ -1,4 +1,4 @@
-package reccursion;
+//package reccursion;
 
 public class FACT {
     static void fact(int n, int fact) {

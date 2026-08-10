@@ -1,4 +1,4 @@
-package reccursion;
+//package reccursion;
 
 public class NtoOne {
     static int n2one(int a, int b) {

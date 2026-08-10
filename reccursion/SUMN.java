@@ -1,4 +1,4 @@
-package reccursion;
+//package reccursion;
 
 public class SUMN {
     static int sumn(int n){

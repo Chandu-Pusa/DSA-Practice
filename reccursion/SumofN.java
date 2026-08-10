@@ -1,8 +1,6 @@
-package reccursion;
+//package reccursion;
 
 public class SumofN {
-
-    static int sum;
 
     static int sumofN(int n, int sum) {
         if(n<1){

@@ -1,4 +1,4 @@
-package reccursion;
+//package reccursion;
 
 public class SumNBT {
     static void sumofn(int i, int sum) {
